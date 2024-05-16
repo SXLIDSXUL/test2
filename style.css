@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cardinf{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.info-text{
+    margin-left: 40px;
+}
+
+.info-text p{
+    width: 100%;
+}
+.container{
+    max-width: 75%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.cardst{
+    text-align: center;
+    
+}
+.avatarph{
+    width: 280px;
+    height: 280px;
+    border-radius: 28px;
+    box-shadow: -12px -12px 10px rgb(0, 0, 0, 0.25);
+}
+
+.targetstab{
+    background-color: #5D5C61;
+    border-radius: 20px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px;
+}
+
+.listtar{
+    padding: 0 20px;
+}
+
+.listtar li{
+    margin-bottom: 10px;
+}
+
+.timeteach{
+    background-color: #b1a296;
+    border-radius: 20px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 15px;
+
+}
+
+.curs{
+    background-color: #7395ae;
+    border-radius: 25px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px;
+}
+
+.tabtime{
+    padding: 0 20px;
+    width: 100%;
+}
+
+.tabtime td{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+.tabtime tr th{
+    word-spacing: 3px;
+    text-align: center;
+}
+
+
+.tabcurs{
+    text-align: center; 
+    margin: 5px;
+    width: 100%;
+}
+.h2tabc{
+    text-align: center;
+}
+
+.tabcurs th{
+    padding-bottom: 10px;
+}
+
+.tabcurs td{
+    padding-bottom: 10px;
+}
+
+.contac{
+    text-align: center;
+    background-color: #739573;
+    border-radius: 20px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px;
+}
+
+.contac a{
+    margin: 25px;
+    width: 100%;
+}
+
